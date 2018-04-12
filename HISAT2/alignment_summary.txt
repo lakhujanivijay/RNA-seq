@@ -1,0 +1,65 @@
+
+HISAT2 summary stats:
+        Total pairs: 11587225
+                Aligned concordantly or discordantly 0 time: 4464083 (38.53%)
+                Aligned concordantly 1 time: 2195620 (18.95%)
+                Aligned concordantly >1 times: 4877336 (42.09%)
+                Aligned discordantly 1 time: 50186 (0.43%)
+        Total unpaired reads: 8928166
+                Aligned 0 time: 8019048 (89.82%)
+                Aligned 1 time: 304653 (3.41%)
+                Aligned >1 times: 604465 (6.77%)
+        Overall alignment rate: 65.40%
+
+
+
+Description
+-----------
+
+1. Total pairs: 11587225 
+Total reads = 11587225 * 2 = 23174450 (matches total number of reads in the sample)
+
+
+2. Aligned concordantly or discordantly 0 time: 4464083 (38.53%)
+Unaligned reads = 604465
+
+3. Aligned concordantly 1 time: 2195620 (18.95%)
+These are uniquely mapped reads : 2195620 * 2 =	4391240
+
+4. Aligned concordantly >1 times: 4877336 (42.09%)
+Multi mapped reads : 4877336 *2  = 9754672
+
+5.Aligned discordantly 1 time: 50186 (0.43%)
+Discordant aligned : 50186 * 2 = 100372
+
+6. Total unpaired reads: 8928166
+These are not paired
+	6.1. Aligned 0 time: 8019048 (89.82%)
+	89% of the unpaired reads did not align at all
+
+	6.2 Aligned 1 time: 304653 (3.41%)
+        304653 unpaired reads aligned 1 time 
+	
+	6.3. Aligned >1 times: 604465 (6.77%)
+        604465 unpaired reads are multipmapped
+
+7. Overall alignment rate: 65.40%
+
+PAIRED READS
+-------------
+Aligned concordantly 1 time: (2195620 * 2 = 4391240)
+Aligned concordantly >1 times: (4877336 *2  = 9754672)
+Aligned discordantly 1 time: (50186 * 2 = 100372)
+
+UNPAIRED READS
+---------------
+Aligned 1 time: 304653 (3.41%)
+Aligned >1 times: 604465 (6.77%)
+
+Total = 4391240 + 9754672 +  100372 +  304653 +  604465 = 15155402
+
+percentage = (15155402 / 23174450) * 100 = 65.40%
+
+
+
+

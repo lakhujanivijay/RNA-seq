@@ -1,6 +1,6 @@
 library(reshape2)
 library(ggplot2)
-data=read.table("S3_vs_S6.txt", header=T, stringsAsFactors=F)
+data=read.table("A_vs_B.txt", header=T, stringsAsFactors=F)
 
 A=log((data[,2] + 1),2)
 B=log((data[,3] + 1),2)

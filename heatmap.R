@@ -1,5 +1,5 @@
 library(pheatmap)
-data <- read.csv("S3_S6.txt", sep="\t",header=TRUE, stringsAsFactors=F)
+data <- read.csv("data.txt", sep="\t",header=TRUE, stringsAsFactors=F)
 rnames <- paste(sprintf("% 20s",data[,1]),"\t",data[,2])
 mat_data <- data.matrix(data[,3:ncol(data)])
 rownames(mat_data) <- rnames

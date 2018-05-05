@@ -1,4 +1,8 @@
- HISAT2 summary stats:
+As also explained on
+
+https://www.biostars.org/p/313264/#313355
+
+HISAT2 summary stats:
             Total pairs: 11587225
                     Aligned concordantly or discordantly 0 time: 4464083 (38.53%)
                     Aligned concordantly 1 time: 2195620 (18.95%)

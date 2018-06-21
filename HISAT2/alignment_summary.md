@@ -76,7 +76,7 @@ These are **not** paired reads
 
 ----------
 
-# Calculation as explained below
+### Calculation as explained below
 
 #### PAIRED READS
 ---------------------

@@ -66,15 +66,15 @@ These are **not** paired reads
 
  - **Aligned 0 time: 8019048 (89.82%)**
 
-    (8019048 / 8928166 ) * 100 = 89.82%  i.e. 89% of the unpaired reads did not align at all
+    `(8019048 / 8928166 ) * 100 = 89.82%`  i.e. `89%` of the unpaired reads did not align at all
 
  - **Aligned 1 time: 304653 (3.41%)** 
 
-    (304653 / 8928166 ) * 100 = 3.41%  i.e. 3.41% of the unpaired reads aligned once
+    `(304653 / 8928166 ) * 100 = 3.41%`  i.e. `3.41%` of the unpaired reads aligned once
 
  - **Aligned >1 times: 604465 (6.77%)**
 
-    (604465 / 8928166 ) * 100 = 6.77%  i.e. 6.77% of the unpaired reads are multi mapped
+    `(604465 / 8928166 ) * 100 = 6.77%`  i.e. `6.77%` of the unpaired reads are multi mapped
 
 
 **7. Overall alignment rate: 65.40%**
@@ -94,6 +94,6 @@ Calculation as explained below
 
 ----------
 
-    Total = 4391240 + 9754672 +  100372 +  304653 +  604465 = 15155402
+Total = `4391240 + 9754672 +  100372 +  304653 +  604465 = 15155402`
     
-    Overall Alignment Rate = (15155402 / 23174450) * 100 = 65.40%
+Overall Alignment Rate = `(15155402 / 23174450) * 100 = 65.40%`

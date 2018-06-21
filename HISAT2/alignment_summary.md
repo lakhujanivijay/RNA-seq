@@ -1,7 +1,11 @@
-As also explained on
+### Explanation of HISAT summary statistics 
 
-https://www.biostars.org/p/313264/#313355
+As also explained on one of my posts on [biostars.org](https://www.biostars.org/p/313264/#313355
+)
 
+The summary looks like this
+
+```
 HISAT2 summary stats:
             Total pairs: 11587225
                     Aligned concordantly or discordantly 0 time: 4464083 (38.53%)
@@ -14,9 +18,10 @@ HISAT2 summary stats:
                     Aligned >1 times: 604465 (6.77%)
             Overall alignment rate: 65.40%
 
+```
 
-Description
------------
+### Description
+
 
 **1. Total pairs: 11587225** 
 
@@ -70,6 +75,7 @@ These are **not** paired reads
 **7. Overall alignment rate: 65.40%**
 
 **Calculation as explained below**
+
 PAIRED READS
 ---------------------
 

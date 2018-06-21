@@ -83,14 +83,14 @@ Calculation as explained below
 
 #### PAIRED READS
 
-    Aligned concordantly 1 time: (2195620 * 2 = 4391240)
-    Aligned concordantly >1 times: (4877336 *2  = 9754672)
-    Aligned discordantly 1 time: (50186 * 2 = 100372)
+Aligned concordantly 1 time: `(2195620 * 2 = 4391240)`
+Aligned concordantly >1 times: `(4877336 * 2  = 9754672)`
+Aligned discordantly 1 time: `(50186 * 2 = 100372)`
 
 #### UNPAIRED READS
 
-    Aligned 1 time: 304653 
-    Aligned >1 times: 604465
+Aligned 1 time: `304653`
+Aligned >1 times: `604465`
 
 ----------
 

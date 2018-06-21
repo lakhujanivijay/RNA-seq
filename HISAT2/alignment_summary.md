@@ -19,7 +19,6 @@ HISAT2 summary stats:
                     Aligned 1 time: 304653 (3.41%)
                     Aligned >1 times: 604465 (6.77%)
             Overall alignment rate: 65.40%
-
 ```
 
 ### Description
@@ -41,8 +40,6 @@ These are unmapped reads :  `4464083 * 2 (paired end) = 8928166`
 **3. Aligned concordantly 1 time: 2195620 (18.95%)**
 
 These are uniquely mapped reads : `2195620 * 2 (paired end) = 4391240`
-
-   
 
     ( 4391240 /  23174450 (Total reads) ) * 100 ~ 18.95%
 

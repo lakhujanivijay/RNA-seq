@@ -1,7 +1,7 @@
 ### Explanation of HISAT summary statistics 
 
-As also explained on one of my posts on [biostars.org](https://www.biostars.org/p/313264/#313355
-)
+As also explained on one of my [posts](https://www.biostars.org/p/313264/#313355
+) on [biostars.org](www.biostars.org)
 
 The summary looks like this
 

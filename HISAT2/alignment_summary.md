@@ -76,26 +76,23 @@ These are **not** paired reads
 
     (604465 / 8928166 ) * 100 = 6.77%  i.e. 6.77% of the unpaired reads are multi mapped
 
+
 **7. Overall alignment rate: 65.40%**
 
 Calculation as explained below
 
 #### PAIRED READS
----------------------
 
     Aligned concordantly 1 time: (2195620 * 2 = 4391240)
     Aligned concordantly >1 times: (4877336 *2  = 9754672)
     Aligned discordantly 1 time: (50186 * 2 = 100372)
 
 #### UNPAIRED READS
--------------------------
 
     Aligned 1 time: 304653 
     Aligned >1 times: 604465
 
-
 ----------
-
 
     Total = 4391240 + 9754672 +  100372 +  304653 +  604465 = 15155402
     

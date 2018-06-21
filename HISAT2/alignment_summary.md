@@ -74,7 +74,9 @@ These are **not** paired reads
 
 **7. Overall alignment rate: 65.40%**
 
-**Calculation as explained below**
+----------
+
+# Calculation as explained below
 
 #### PAIRED READS
 ---------------------

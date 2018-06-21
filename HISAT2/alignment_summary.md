@@ -1,7 +1,6 @@
 
 ### Explanation of [HISAT](https://ccb.jhu.edu/software/hisat2/index.shtml) summary statistics 
 
-> What is HISAT2 ?
 > HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) to a population of human genomes (as well as to a single reference genome).
 
 > As also explained on one of my [posts](https://www.biostars.org/p/313264/#313355

@@ -4,7 +4,7 @@ HISAT2 is a fast and sensitive alignment program for mapping next-generation seq
 
 ### Explanation of [HISAT](https://ccb.jhu.edu/software/hisat2/index.shtml) summary statistics 
 
-As also explained on one of my [posts](https://www.biostars.org/p/313264/#313355
+> As also explained on one of my [posts](https://www.biostars.org/p/313264/#313355
 ) on [biostars.org](www.biostars.org)
 
 The summary looks like this
